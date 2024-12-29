@@ -11,5 +11,4 @@ This repository is a collection of PowerBI projects aimed at showcasing the capa
 
 ## Projects
 1. **IPL Dashboard**: A detailed dashboard to analyze IPL cricket match data, including player performance, team statistics, and match outcomes.
-2. **Mobile Sales Dashboard**:
-3. A comprehensive dashboard designed to analyze mobile sales data, showcasing sales trends, customer demographics, and product performance across various regions.
+2. **Mobile Sales Dashboard**: A comprehensive dashboard designed to analyze mobile sales data, showcasing sales trends, customer demographics, and product performance across various regions.
